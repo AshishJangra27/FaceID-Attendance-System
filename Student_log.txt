@@ -1,0 +1,7 @@
+roll_no,reg_no,name,attendance
+1,11602259,Ashish, 
+2,11602223,Guri, 
+3,11605235,Ria, 
+4,11601778,Rishu, 
+5,11601234,Sriram, 
+6,11605475,Vikrant, 
