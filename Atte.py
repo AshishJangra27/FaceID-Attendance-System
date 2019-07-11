@@ -5,11 +5,11 @@ import numpy as np
 import pandas as pd
 from keras.models import load_model
 
-faceCascade = cv.CascadeClassifier('helper/haarcascade_frontalface_default.xml')
+faceCascade = cv.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 font = cv.FONT_HERSHEY_SIMPLEX
 
-model = load_model('helper/weights.h5')
+model = load_model('weights.h5')
 
 def clean_logs():
     
