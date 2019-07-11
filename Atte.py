@@ -138,7 +138,7 @@ def file_generate(data):
     
 def send_mail(mail):
     email = 'tst1234500@gmail.com'
-    paswd = '1@Rishuthakur'
+    paswd = '123456789'
 
     try:
         server = smtplib.SMTP(host = 'smtp.gmail.com', port = 587)
