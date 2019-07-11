@@ -31,4 +31,5 @@ Signal.py is optional if you want to integrate it with IoT using blynk as i did 
 Thanks for Reading
 
 Happy Learning
+
 LikedIn: https://www.linkedin.com/in/ashish-jangra/
