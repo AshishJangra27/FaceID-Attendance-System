@@ -29,4 +29,6 @@ This repository is consisting of several programs,lets discuss them on by one fr
 Signal.py is optional if you want to integrate it with IoT using blynk as i did or some device where teacher need to press the actual button of the device placed in the class and mark the attendance.
 
 Thanks for Reading
+
 Happy Learning
+LikedIn: https://www.linkedin.com/in/ashish-jangra/
